@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Devhipster
 
 You can use the [editor on GitHub](https://github.com/HipsterSantos/github-pages-with-jekyll/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
